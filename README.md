@@ -1,4 +1,4 @@
-A benchmark dataset for crack detection, which is consist of two subset: train and test. 
+A benchmark dataset for crack detection which is consist of two subset: train and test. 
 For each subset, we provide both the RGB images and corresponding pixel-wise annotation maps.
 
 You can find the dataset in `./dataset`, and here are the details:
