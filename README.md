@@ -7,8 +7,7 @@
 
  - **Dataset**:
 
-A benchmark dataset for crack detection which is consist of two subset: train and test. 
-For each subset, we provide both the RGB images and corresponding pixel-wise annotation maps.
+We established a public benchmark dataset with cracks in multi-scale and multi- scene to evaluate the crack detection systems. All of the crack images in our dataset are manually annotated.
 
 You can find the dataset in `./dataset`, and here are the details:
 
@@ -19,6 +18,13 @@ You can find the dataset in `./dataset`, and here are the details:
 |`test_img`|RGB images for testing|
 |`test_lab`|binary annotation for testing images|
 
-An brief overview of our crack detection dataset:
+A brief overview on our crack detection dataset:
 
 ![](./figures/dataset-overview.jpg)
+
+ - **Citation:**
+
+If you use this dataset for your research, please cite our paper:
+
+
+// TODO
