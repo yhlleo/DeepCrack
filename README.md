@@ -1,6 +1,6 @@
 ## DeepCrack: A Deep Hierarchical Feature Learning Architecture for Crack Segmentation
 
- - Paper: [avaliable soon]. Dec 14, 2017 submitted to Neurocomputing, Jan 21, 2019 accepted.
+ - Paper: [avaliable soon]. Accepted by Neurocomputing.
  - Dataset:
 
 A benchmark dataset for crack detection which is consist of two subset: train and test. 
