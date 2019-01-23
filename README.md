@@ -9,3 +9,7 @@ You can find the dataset in `./dataset`, and here are the details:
 |`train_lab`|binary annotation for training images|
 |`test_img`|RGB images for testing|
 |`test_lab`|binary annotation for testing images|
+
+An brief overview of our crack detection dataset:
+
+![](./figures/dataset-overview.jpg)
