@@ -7,7 +7,7 @@
 
  - **Dataset**:
 
-We established a public benchmark dataset with cracks in multi-scale and multi- scene to evaluate the crack detection systems. All of the crack images in our dataset are manually annotated.
+We established a public benchmark dataset with cracks in multiple scales and scenes to evaluate the crack detection systems. All of the crack images in our dataset are manually annotated.
 
 You can find the dataset in `./dataset`, and here are the details:
 
@@ -28,3 +28,5 @@ If you use this dataset for your research, please cite our paper:
 
 
 // TODO
+
+You are also welcomed to Email me: yahui.cvrs@gmail.com .
