@@ -29,11 +29,11 @@ If you use this dataset for your research, please cite our paper:
 
 ```
 @article{liu2019deepcrack,
-title={DeepCrack: A Deep Hierarchical Feature Learning Architecture for Crack Segmentation},
-author={Yahui, Liu and Jian, Yao and Xiaohu, Lu and Renping, Xie and Li, Li},
-journal={Neurocomputing},
-year={2019},
-doi={10.1016/j.neucom.2019.01.036}
+  title={DeepCrack: A Deep Hierarchical Feature Learning Architecture for Crack Segmentation},
+  author={Yahui, Liu and Jian, Yao and Xiaohu, Lu and Renping, Xie and Li, Li},
+  journal={Neurocomputing},
+  year={2019},
+  doi={10.1016/j.neucom.2019.01.036}
 }
 ```
 
