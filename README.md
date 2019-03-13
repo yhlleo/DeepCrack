@@ -1,6 +1,6 @@
 ## DeepCrack: A Deep Hierarchical Feature Learning Architecture for Crack Segmentation
 
- - **Paper**: [[available on Neurocomputing]](https://www.sciencedirect.com/science/article/pii/S0925231219300566), submitted 14 Dec., 2017, Accepted 15 Jan. 2019.
+ - **Paper**: [[available on Neurocomputing]](https://www.sciencedirect.com/science/article/pii/S0925231219300566), submitted 14 Dec., 2017, accepted 15 Jan. 2019.
  - **Architecture**: based on Holistically-Nested Edge Detection, ICCV 2015, [[Paper]](https://arxiv.org/abs/1504.06375)[[code]](https://github.com/s9xie/hed).
 
 ![](./figures/architecture.jpg)
