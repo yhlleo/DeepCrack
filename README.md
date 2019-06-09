@@ -22,7 +22,7 @@ A brief overview on our crack detection dataset:
 
 ![](./figures/dataset-overview.jpg)
 
- - **Citation:**
+ - **Reference:**
 
 If you use this dataset for your research, please cite our paper:
 
@@ -39,4 +39,4 @@ If you use this dataset for your research, please cite our paper:
 }
 ```
 
-You are also welcomed to contact me: yahui.cvrs@gmail.com .
+If you have any questions, please contact me: yahui.cvrs AT gmail.com without hesitation.
