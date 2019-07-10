@@ -40,4 +40,4 @@ If you use this dataset for your research, please cite our paper:
 }
 ```
 
-If you have any questions, please contact me: yahui.cvrs AT gmail.com without hesitation.
+If you have any questions, please contact me: yahui.liu AT unitn.it without hesitation.
