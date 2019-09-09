@@ -10,7 +10,7 @@
 
 We established a public benchmark dataset with cracks in multiple scales and scenes to evaluate the crack detection systems. All of the crack images in our dataset are manually annotated.
 
-**Please note that we do own the copyrights to part of original crack images and all annotated maps. Their use is RESTRICTED to non-commercial research and educational purposes.**
+**Please note that we own the copyrights to part of original crack images and all annotated maps. Their use is RESTRICTED to non-commercial research and educational purposes.**
 
 You can find the dataset in `./dataset`, and here are the details:
 
