@@ -23,6 +23,8 @@ A brief overview on our crack detection dataset:
 
 ![](./figures/dataset-overview.jpg)
 
+Please note that we do not own all the copyrights to these original crack images. Their use is RESTRICTED to non-commercial research and educational purposes.
+
  - **Reference:**
 
 If you use this dataset for your research, please cite our paper:
