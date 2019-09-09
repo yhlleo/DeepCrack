@@ -23,7 +23,7 @@ A brief overview on our crack detection dataset:
 
 ![](./figures/dataset-overview.jpg)
 
-Please note that we do not own all the copyrights to these original crack images. Their use is RESTRICTED to non-commercial research and educational purposes.
+Please note that we do own the copyrights to part of original crack images and all annotated maps. Their use is RESTRICTED to non-commercial research and educational purposes.
 
  - **Reference:**
 
