@@ -1,7 +1,6 @@
 ## DeepCrack: A Deep Hierarchical Feature Learning Architecture for Crack Segmentation
 
- - **Paper**: [paper](./paper/DeepCrack-Neurocomputing-2019.pdf) is available at [sNeurocomputing](https://www.sciencedirect.com/science/article/pii/S0925231219300566)(IF: 4.072).
- - **Code**: Pytorch implementation: [[yhlleo/DeepSegmentor]](https://github.com/yhlleo/DeepSegmentor)
+ - **Resources**: [[paper]](./paper/DeepCrack-Neurocomputing-2019.pdf) | [[code]](https://github.com/yhlleo/DeepSegmentor) | [[dataset]](https://github.com/yhlleo/DeepCrack)
  - **Architecture**: based on Holistically-Nested Edge Detection, ICCV 2015, [[Paper]](https://arxiv.org/abs/1504.06375)[[code]](https://github.com/s9xie/hed).
 
 ![](./figures/architecture.jpg)
